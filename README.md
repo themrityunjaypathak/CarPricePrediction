@@ -30,7 +30,7 @@
 - This web app also has multiple error handling mechanisms to gracefully manage unexpected situations.
 - I have named it AutoValuate.
   
-**Link to the Application :** [AutoValuate](https://car-price-prediction-using-lr.streamlit.app/)
+**Link to the Application :** [Application](https://car-price-prediction-using-lr.streamlit.app/)
 
 <a href="https://car-price-prediction-using-lr.streamlit.app/"><img title="AutoValuate" src="https://github.com/TheMrityunjayPathak/CarPricePrediction/assets/123563634/9c4ed16e-6741-48db-88ed-778c212ac380"></a>
 
