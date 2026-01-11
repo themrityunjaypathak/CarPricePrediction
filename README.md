@@ -81,7 +81,7 @@ pip install scikit-learn
 ## Getting Started
 - Clone this repository to your local machine by using the following command :
 ```
-git clone https://github.com/TheMrityunjayPathak/CarPricePrediction.git
+git clone https://github.com/themrityunjaypathak/CarPricePrediction.git
 ```
 
 <hr>
